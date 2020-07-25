@@ -9,13 +9,6 @@
     with the idea of <b>building</b> stuff that helps in making <b>our world a better place to live.</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em>  
 </p>
-
-
-<br>
-
-
-![DarshReddy's github stats](https://github-readme-stats.vercel.app/api?username=DarshReddy&show_icons=true&hide_border=true)
-
 <br>
 
   <a href="https://in.linkedin.com/in/DarshReddy">
