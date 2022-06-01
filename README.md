@@ -1,12 +1,12 @@
 # Darsh Reddy&nbsp;
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="30px">
 
 <p>
   <em>
     Undergrad from <a href="https://www.uvce.ac.in/"> <b>University Visvesvaraya College of Engineering</b></a>, Bengaluru-01. <br>
-    I'm a budding <b>Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and an <b>Android Enthusiast,</b>&nbsp;<br>who is <b>obsessed</b>
-    with the idea of <b>building</b> stuff that helps in making <b>our world a better place to live.</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+    I'm a budding <b>Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"> and an <b>Android Enthusiast,</b>&nbsp;<br>who is <b>obsessed</b>
+    with the idea of <b>building</b> stuff that helps in making <b>our world a better place to live.</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px" height="30px">
   </em>  
 </p>
 <br>
