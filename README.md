@@ -25,3 +25,4 @@
   </a>
 
 <br><br><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshreddy&theme=dark" alt="darshreddy" /></p>
