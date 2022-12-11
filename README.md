@@ -23,6 +23,3 @@
   <a href="mailto:darshreddy14@gmail.com">
     <img align="left" alt="Darsh Reddy | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-
-<br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshreddy&theme=dark" alt="darshreddy" /></p>
